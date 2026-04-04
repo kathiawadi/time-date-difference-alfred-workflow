@@ -17,4 +17,4 @@ Single time — converts between 12-hour and 24-hour formats on the fly
 
 Date formats accepted: DD/MM/YYYY, YYYY-MM-DD, 25 Mar 2026, 25-Mar-26, plus keywords like today, tomorrow, yesterday.
 
-Results are copy-ready — pressing ↵ on any result copies it to your clipboard instantly.Sonnet 4.6
+Results are copy-ready — pressing ↵ on any result copies it to your clipboard instantly.
